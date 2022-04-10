@@ -1,5 +1,5 @@
-#ifndef PARTS_H
-#define PARTS_H
+#ifndef differentsBlocks.
+#define differentsBlocks.
 #define GLFW_DLL
 #include <GL/glfw.h>
 #include "vector.h"
